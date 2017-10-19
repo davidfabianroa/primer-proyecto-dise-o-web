@@ -1,0 +1,24 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_1_blur">
+   <feGaussianBlur stdDeviation="0.4" in="SourceGraphic"/>
+  </filter>
+  <filter id="svg_2_blur">
+   <feGaussianBlur stdDeviation="0.8" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect filter="url(#svg_1_blur)" rx="11" id="svg_1" height="144" width="354" y="128" x="113" stroke-width="4.5" stroke="#000" fill="#5b5be5"/>
+  <text filter="url(#svg_2_blur)" font-weight="bold" font-style="italic" stroke="#000" transform="matrix(4.018943890086604,0,0,3.216931119797721,-542.9972201229883,-337.62432145693936) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="26" id="svg_2" y="175.916947" x="176.272704" stroke-opacity="null" stroke-width="0" fill="#000000">D.F.R</text>
+  <text stroke-width="0" font-weight="bold" font-style="italic" stroke="#000" transform="matrix(4.018943890086604,0,0,3.216931119797721,-542.9972201229883,-337.62432145693936) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="26" id="svg_3" y="179.639813" x="179.264152" stroke-opacity="null" fill="#bf0000">D.F.R</text>
+ </g>
+</svg>
